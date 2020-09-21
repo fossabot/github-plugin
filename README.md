@@ -4,6 +4,7 @@ Jenkins Github Plugin
 [![codecov](https://codecov.io/gh/jenkinsci/github-plugin/branch/master/graph/badge.svg)](https://codecov.io/gh/jenkinsci/github-plugin)
 [![License](https://img.shields.io/github/license/jenkinsci/github-plugin.svg)](LICENSE)
 [![wiki](https://img.shields.io/badge/GitHub%20Plugin-WIKI-blue.svg?style=flat)](http://wiki.jenkins-ci.org/display/JENKINS/Github+Plugin)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Folmero%2Fgithub-plugin.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Folmero%2Fgithub-plugin?ref=badge_shield)
 
 
 Development
@@ -49,3 +50,7 @@ Plugin releases
 ---------------
 
 	mvn release:prepare release:perform -Dusername=juretta -Dpassword=******
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Folmero%2Fgithub-plugin.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Folmero%2Fgithub-plugin?ref=badge_large)
